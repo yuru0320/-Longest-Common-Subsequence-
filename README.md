@@ -18,16 +18,11 @@ Xcode v12.5.1 (12E507)
 輸入範例:
 
 7 6
-
 A B C B D A B 
-
 B D C A B A 
-
 7 6
 B C D A A C D 
-
 A C D B A C 
-
 0 0
 
 
