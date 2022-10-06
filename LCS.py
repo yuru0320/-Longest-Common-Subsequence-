@@ -1,12 +1,4 @@
-# 演算法分析機測
-# 學號 : 10827233 | 10827234 | 10827242
-# 姓名 : 林庭     | 彭桂綺   | 邱鈺茹
-# 中原大學資訊工程系
-#
-#	Longest Common Subsequence (LCS)
-#	Given two strings X & Y, find the LCS.
-#
-#	Reference: Introduction to Algorithms, 3rd Edition
+
 #
 
 from pickletools import string1
