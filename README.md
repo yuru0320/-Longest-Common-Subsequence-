@@ -26,9 +26,16 @@ Visual Studio Code (版本: 1.70.2)
 
 ## 程式使用範例
 
+### 若輸入的字串不符合輸入的序列長度，則會印出ERROR:
 <img width="891" alt="截圖 2022-10-07 上午1 23 20" src="https://user-images.githubusercontent.com/95215851/194378895-ccf90bf6-39c3-4475-9b4d-70a2e87a5283.png">
 
-若輸入的字串不符合輸入的size 則會印出ERROR。
+###
+若輸入的序列長度數字過大，則需要重新輸入：
+<img width="870" alt="截圖 2022-10-07 上午1 30 26" src="https://user-images.githubusercontent.com/95215851/194380090-c42f19a0-2587-40f9-9b58-859dabcca444.png">
+
+### 成功執行結果(輸入0 0 即可結束)：
 
 <img width="875" alt="截圖 2022-10-07 上午1 24 17" src="https://user-images.githubusercontent.com/95215851/194378992-9ad57b71-5919-443b-81ee-b390529f8d9b.png">
+
+
 
