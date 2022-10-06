@@ -21,7 +21,7 @@ Visual Studio Code (版本: 1.70.2)
 
 對每一組測試資料，輸出 LCS 的最佳解，包含 LCS 的長度與 LCS。
 
-<img width="125" alt="截圖 2022-10-07 上午1 26 31" src="https://user-images.githubusercontent.com/95215851/194379355-89f92bf2-305d-4fa9-8e6d-00e813439b8e.png">
+<img width="214" alt="截圖 2022-10-07 上午1 26 05" src="https://user-images.githubusercontent.com/95215851/194379714-5a95c309-6bad-4c10-9b85-7b6bee3e34c2.png">
 
 
 ## 程式使用範例
