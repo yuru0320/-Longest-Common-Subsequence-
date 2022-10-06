@@ -12,12 +12,36 @@ Xcode v12.5.1 (12E507)
 
 ## 輸入說明:
 輸入含有多組測試資料，每組測試資料 3 列，代表兩個序列。每組測試資料的第一列有 2 個 整數 m 和 n (1 < m、n <= 100)，分別代表這兩個序列的長度，0 0 代表結束。
-輸入範例:
-76
-A BC B D A B BD C A BA 76
-BC D AA C D A C D BA C 00
 
 第二、 三列分別有 m、n 個字元，字元為英文的大寫或小寫字母。
 
+輸入範例:
+
+7 6
+
+A B C B D A B 
+
+B D C A B A 
+
+7 6
+B C D A A C D 
+
+A C D B A C 
+
+0 0
+
+
+
 ## 輸出說明:
+
 對每一組測試資料，輸出 LCS 的最佳解，包含 LCS 的長度與 LCS。
+
+輸出範例:
+
+Case #1
+
+Length of LCS = 4 LCS = BCBA
+
+Case #2
+
+Length of LCS = 4 LCS = CDAC
