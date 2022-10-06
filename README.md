@@ -15,32 +15,20 @@ Visual Studio Code (版本: 1.70.2)
 
 第二、 三列分別有 m、n 個字元，字元為英文的大寫或小寫字母。
 
-輸入範例:
-
-7 6
-
-A B C B D A B 
-
-B D C A B A 
-
-7 6
-
-B C D A A C D 
-
-A C D B A C 
-
-0 0
+<img width="125" alt="截圖 2022-10-07 上午1 26 31" src="https://user-images.githubusercontent.com/95215851/194379248-e729c26b-03ae-46b4-ac55-0dac7f486327.png">
 
 ## 輸出說明:
 
 對每一組測試資料，輸出 LCS 的最佳解，包含 LCS 的長度與 LCS。
 
-輸出範例:
+<img width="125" alt="截圖 2022-10-07 上午1 26 31" src="https://user-images.githubusercontent.com/95215851/194379355-89f92bf2-305d-4fa9-8e6d-00e813439b8e.png">
 
-Case #1
 
-Length of LCS = 4 LCS = BCBA
+## 程式使用範例
 
-Case #2
+<img width="891" alt="截圖 2022-10-07 上午1 23 20" src="https://user-images.githubusercontent.com/95215851/194378895-ccf90bf6-39c3-4475-9b4d-70a2e87a5283.png">
 
-Length of LCS = 4 LCS = CDAC
+若輸入的字串不符合輸入的size 則會印出ERROR。
+
+<img width="875" alt="截圖 2022-10-07 上午1 24 17" src="https://user-images.githubusercontent.com/95215851/194378992-9ad57b71-5919-443b-81ee-b390529f8d9b.png">
+
