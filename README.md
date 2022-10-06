@@ -3,7 +3,7 @@
 ## 開發平台
 macOS Big Sur 
 ## 使用開發環境
-Xcode v12.5.1 (12E507) 
+Visual Studio Code (版本: 1.70.2)
 ## 程式功能
 給定兩個序列 (或字串)，目的是找到 兩個序列連續的共同字元，稱為共同序列 (Common Subsequence)，且長度必須最長。
 
